@@ -17,7 +17,7 @@ public class VowelCounter {
 		
 		//Ask for the input.
 		System.out.println("Enter any words and I will count the vowels: ");
-		String wordInput=scn.nextLine().toLowerCase();
+		String wordInput=scn.nextLine();
 		
 		//Using the switch/break method and the for conditional.
 		for(int x = 0; x < wordInput.length(); x++) {

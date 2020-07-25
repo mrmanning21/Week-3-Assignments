@@ -1,8 +1,8 @@
 
 public class Box {
 
-		//Declaring my instance variable.
-		int size = 0;
+	//Declaring my instance variable.
+	int size = 0;
 		
 	//Creating printBox method.
 	public void printBox() {
